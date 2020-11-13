@@ -126,7 +126,7 @@ const options = {
     method: "post",
     headers: {
       "Content-Type": "application/json",
-      "Authorization": "bearer 93d0d888271411b24a6cff109ffa3ccfca217fbf"
+      "Authorization": "bearer c25c0acd2a8177d01e0973ad94dea88ae6dee2a7"
     },
     body: JSON.stringify({
       query: fetchQuery
